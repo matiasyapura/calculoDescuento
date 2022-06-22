@@ -1,2 +1,2 @@
-# calculoDescuento
+# ejercicioSuma
 Created with CodeSandbox
